@@ -2,10 +2,10 @@
 <widget id="kh.spaceclub.balloon" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Spaceballoon</name>
     <description>
-        A sample Apache Cordova application that responds to the deviceready event.
+        This is an application for Space Balloon Project.
     </description>
-    <author email="dev@cordova.apache.org" href="http://cordova.io">
-        Apache Cordova Team
+    <author email="tnkhrk.122@gmail.com" href="https://www.facebook.com/hiroki.tanaka.7169">
+        A member of Phnom Penh(The Capital of Cambodia) Space Club.
     </author>
     <content src="index.html" />
     <access origin="*" />

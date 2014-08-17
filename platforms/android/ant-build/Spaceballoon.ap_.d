@@ -35,7 +35,13 @@
 /Users/tanakahiroki/workspace/phonegap/SpaceBalloon/platforms/android/assets/www/img \
 /Users/tanakahiroki/workspace/phonegap/SpaceBalloon/platforms/android/assets/www/index.html \
 /Users/tanakahiroki/workspace/phonegap/SpaceBalloon/platforms/android/assets/www/js \
+/Users/tanakahiroki/workspace/phonegap/SpaceBalloon/platforms/android/assets/www/sample.html \
 /Users/tanakahiroki/workspace/phonegap/SpaceBalloon/platforms/android/assets/www/css/index.css \
+/Users/tanakahiroki/workspace/phonegap/SpaceBalloon/platforms/android/assets/www/css/lib \
+/Users/tanakahiroki/workspace/phonegap/SpaceBalloon/platforms/android/assets/www/css/lib/jquery.mobile-1.4.3.min.css \
 /Users/tanakahiroki/workspace/phonegap/SpaceBalloon/platforms/android/assets/www/img/logo.png \
 /Users/tanakahiroki/workspace/phonegap/SpaceBalloon/platforms/android/assets/www/js/index.js \
+/Users/tanakahiroki/workspace/phonegap/SpaceBalloon/platforms/android/assets/www/js/lib \
+/Users/tanakahiroki/workspace/phonegap/SpaceBalloon/platforms/android/assets/www/js/lib/jquery-1.11.1.min.js \
+/Users/tanakahiroki/workspace/phonegap/SpaceBalloon/platforms/android/assets/www/js/lib/jquery.mobile-1.4.3.min.js \
 /Users/tanakahiroki/workspace/phonegap/SpaceBalloon/platforms/android/ant-build/AndroidManifest.xml \
